@@ -1,0 +1,53 @@
+# =========================
+# Build outputs
+# =========================
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# MyGit build artifact (your tool)
+mygit.exe
+mygit
+
+# =========================
+# Build directories
+# =========================
+build/
+bin/
+dist/
+
+# =========================
+# IDE / editor files
+# =========================
+.vscode/
+.idea/
+*.code-workspace
+
+# =========================
+# Debug / logs
+# =========================
+*.log
+*.dSYM/
+*.pdb
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary / misc
+# =========================
+*.tmp
+*.swp
+*.swo
+
+# =========================
+# MyGit internal data (IMPORTANT)
+# =========================
+.mygit/
